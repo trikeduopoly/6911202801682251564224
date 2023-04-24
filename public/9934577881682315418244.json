@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223965310925",
+    "project_id": "pinjoltanpaktp-irene",
+    "storage_bucket": "pinjoltanpaktp-irene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223965310925:android:067be372f9fda5ff4ede84",
+        "android_client_info": {
+          "package_name": "com.PinjamanUangOnlineTanpaKtpJaminan.irene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223965310925-o61g7kfn8o022lkq8ft5u6006mddoudn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdtsf9ZiHuLsTOcncLeNESSjv-etqs8ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223965310925-o61g7kfn8o022lkq8ft5u6006mddoudn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
